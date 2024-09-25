@@ -1,0 +1,33 @@
+/* .pagina-soma {
+    margin-top: 20%;
+    display: flex;
+    justify-content: center;
+} */
+
+.container-conta {
+    margin-top: 18%;
+    display: grid;
+    justify-content: center;
+}
+
+.titulo {
+    font-size: 36px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.num1, .num2, .botao, .resultado {
+    display: flex;
+    justify-content: center;
+}
+
+.texto {
+    font-size: 24px;
+}
+
+.btn-somar {
+    background-color: black;
+    color: antiquewhite;
+    border: 1px solid black;
+    border-radius: 10px;
+}
